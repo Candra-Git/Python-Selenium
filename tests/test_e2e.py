@@ -11,7 +11,7 @@ from pageobject.HomePage import HomePage
 from utilities.BaseClass import BaseClass
 
 
-hahahaha
+
 class TestOne(BaseClass):
 
     def test_e2e(self):
